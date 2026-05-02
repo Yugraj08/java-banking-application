@@ -57,7 +57,7 @@ Core Language: Java (JDK 11+)
 
 Development Tools: Git, GitHub, VS Code
 
-🧠 What I Learned
+-->> What I Learned
 Building this project was a great learning experience. Here are some of the key things I learned and practiced:
 
 Object-Oriented Programming: Designing a robust Account class using encapsulation (private variables), constructors, methods, and static variables for a shared counter.
